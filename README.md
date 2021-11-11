@@ -32,6 +32,7 @@ A force d'avoir des activités, meme en triant par type de jeux, il y aura beauc
 ![image](https://user-images.githubusercontent.com/61510528/141378820-5571d525-0631-4a2e-b4d9-3e5ca1aed37f.png)
 
 Tapez l'activités recherchés et les jeux concernés s'affichera en temps réel.
+De plus, sans base de données, les éléments seront enregistrés. Si vous fermés l'application, toutes les activités seront sauveguardés !
 
 -----------------
 
