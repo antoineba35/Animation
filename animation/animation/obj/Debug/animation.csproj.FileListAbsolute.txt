@@ -1,0 +1,19 @@
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\bin\Debug\animation.exe.config
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\bin\Debug\animation.exe
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\bin\Debug\animation.pdb
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\obj\Debug\animation.pageAccueil.resources
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\obj\Debug\animation.Properties.Resources.resources
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\obj\Debug\animation.csproj.GenerateResource.Cache
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\obj\Debug\animation.exe
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\obj\Debug\animation.pdb
+C:\Users\barre.a\Documents\pas touche c'est a Ab\entrainement\animation\animation\obj\Debug\animation.ajoutJeux.resources
+C:\Users\antoi\Documents\programmation\programme\animation\animation\bin\Debug\animation.exe.config
+C:\Users\antoi\Documents\programmation\programme\animation\animation\obj\Debug\animation.exe
+C:\Users\antoi\Documents\programmation\programme\animation\animation\obj\Debug\animation.pdb
+C:\Users\antoi\Documents\programmation\programme\animation\animation\obj\Debug\animation.ajoutJeux.resources
+C:\Users\antoi\Documents\programmation\programme\animation\animation\obj\Debug\animation.pageAccueil.resources
+C:\Users\antoi\Documents\programmation\programme\animation\animation\obj\Debug\animation.Properties.Resources.resources
+C:\Users\antoi\Documents\programmation\programme\animation\animation\obj\Debug\animation.csproj.GenerateResource.Cache
+C:\Users\antoi\Documents\programmation\programme\animation\animation\bin\Debug\animation.exe
+C:\Users\antoi\Documents\programmation\programme\animation\animation\bin\Debug\animation.pdb
+C:\Users\antoi\Documents\programmation\programme\animation\animation\obj\Debug\animation.ajoutGroupe.resources
