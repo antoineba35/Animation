@@ -1,4 +1,4 @@
-# Animation
+# Animation pour les animateurs (colo, centre aéré,...)
 
 *Comment garder en mémoire ses jeux et activités d'animation ?*
 
